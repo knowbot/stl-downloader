@@ -1,4 +1,4 @@
-# Herosaver
+# STL downloader heheXD
 
 Methodology to Save Configuration and STLs from websites using the THREE.JS framework for academic and educational purposes.
 
@@ -12,4 +12,8 @@ Learn more about how to use this, [here](https://notnullgames.github.io/Herosave
 
 ## todo
 
-- add greasemonkey support back
+- fuck greasemonkey
+- fix eyeball position
+- fix pose
+- fix object position
+- remove gigashell
